@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "501584993709",
+    "project_id": "assignment2-ef021",
+    "storage_bucket": "assignment2-ef021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501584993709:android:b7692530da66623ca4d524",
+        "android_client_info": {
+          "package_name": "codewithcal.au.calendarappexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501584993709-98rbmuou4s4sftefor6mb7bnbqpsuemn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Yn6kxmjqMrxTK5m1rdxV6KJGeAlyYJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501584993709-98rbmuou4s4sftefor6mb7bnbqpsuemn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501584993709:android:1cace2e2619c6238a4d524",
+        "android_client_info": {
+          "package_name": "my.edu.utar.workouttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501584993709-98rbmuou4s4sftefor6mb7bnbqpsuemn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Yn6kxmjqMrxTK5m1rdxV6KJGeAlyYJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501584993709-98rbmuou4s4sftefor6mb7bnbqpsuemn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
